@@ -1,0 +1,15 @@
+Checkpoints (31): 1e+06 ... 1e+11
+Sieving to 1e+11 (segment 50,000,000, block 2,500,000,000)
+Wrote data/main_run.csv in 685.2s
+Loaded 26784 rows; pi(1e+11) = 4,118,054,813
+Wrote data/fits.csv (864 cells, two-term fit)
+Window-drift: median spread ratio (one-term / two-term) = 1.09
+Wrote bootstrap.csv; median error inflation (bootstrap / WLS) = 25.85x
+Saved figures/fig01_bias_vs_logx_q3.png
+Saved figures/fig04_pair_type_split.png
+Saved figures/fig05_C_of_q.png
+Wrote comparison.csv
+  |c2_emp - c2_HL|: mean 9.9387, max 32.0773
+  worst cell: q=19 (15,2) emp=29.8385 HL=-2.2387
+Saved figures/fig02_C_emp_vs_C_HL.png
+Saved figures/fig03_residuals.png
